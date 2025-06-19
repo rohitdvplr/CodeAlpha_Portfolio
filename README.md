@@ -3,7 +3,7 @@
 A modern, fully responsive personal portfolio website built with **HTML, CSS, and JavaScript** — showcasing projects, services, and skills with beautiful animations and a working contact form.
 
 ## 🔗 Live Demo
-[Click Here to View the Live Website]([https://yourusername.github.io/your-repo-name](https://rohitdvplr.github.io/CodeAlpha_Portfolio/))
+[Click Here to View the Live Website](https://rohitdvplr.github.io/CodeAlpha_Portfolio/)
 
 ## 📸 Features
 
